@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="Gerenciamento.API/Gerenciamento.API.csproj" />
+  </Folder>
+  <Folder Name="/Application/">
+    <Project Path="Gerenciamento.Application/Gerenciamento.Application.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="Gerenciamento.Domain/Gerenciamento.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infra/">
+    <Project Path="Gerenciamento.Infra/Gerenciamento.Infra.csproj" />
+    <Project Path="Gerenciamento.IoC/Gerenciamento.IoC.csproj" />
+  </Folder>
+</Solution>
